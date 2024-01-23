@@ -2,7 +2,7 @@
 ## Description
 These 2 folders are for 2 different brands of UV LEDs I did lifetime testing on, in my garage, during the pandemic.
 
-Photo of garage setup
+![UV_LED_Testing_inGarage](https://github.com/SteveSwihart/Graphing/assets/26351884/48d44ff4-9aec-4f3f-8087-1bf6ec908dc6)
 
 Eotron was my first significant python graphing task. I learned from it.
 
