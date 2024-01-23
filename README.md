@@ -5,7 +5,8 @@ These 2 folders are for 2 different brands of UV LEDs I did lifetime testing on,
 ![UV_LED_Testing_inGarage](https://github.com/SteveSwihart/Graphing/assets/26351884/48d44ff4-9aec-4f3f-8087-1bf6ec908dc6)
 
 There is a large heat sink in each box, and an array of LEDs on a metal fab. Each box has a camera and a fiber near the camera to allow LED output spectrum to be measured periodically. There are thermocouples in the room, in the box (upper left of image), and on bonded to the fab for temp data. Voltage, current and temp are recorded to a text file which is read by the python file each time new data is taken and saved (data points added). Here is the Eotron setup and a closup
-![EotronBoxOpenSmall](https://github.com/SteveSwihart/Graphing/assets/26351884/655b8a8d-9ad0-4064-99eb-a80ea177dab8) ![EotronBoxOpenSmall](https://github.com/SteveSwihart/Graphing/assets/26351884/f208965e-0e46-41a9-b9b4-641d62ad6bec)
+![EotronBoxOpenSmall](https://github.com/SteveSwihart/Graphing/assets/26351884/655b8a8d-9ad0-4064-99eb-a80ea177dab8) 
+![EotronLEDsCloseupSmall](https://github.com/SteveSwihart/Graphing/assets/26351884/c699d646-7019-49db-8f7d-eabf6ca092ea)
 
 
 Eotron was my first significant python graphing task. I learned from it.
