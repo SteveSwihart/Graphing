@@ -20,6 +20,7 @@ for Eotron, run "Eotron, All Charts.py", and have "EotronDataAferPoint245.txt", 
 for Violumas, run "ViolumasTriColorV3.1_Graphs.py", and have "ViolumasTriColorV3.1Data.txt" and "Violumas3_1_LED_Spectral_Data.txt" present.
 
 
+## Output
 ### Eotron dashboard
 ![Graph image](https://github.com/SteveSwihart/Graphing/blob/master/EotronUV_LEDs/Eotron%20Graphs%20as%20of%204005%20hrs.png)
 
